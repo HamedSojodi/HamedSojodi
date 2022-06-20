@@ -6,8 +6,8 @@
     </picture>
     <ul>
         <li><h4">🙋🏻‍♂️ Hi there</h4></li>
-        <li><h4>👨🏻‍💻 I'm Reza</h4></li>
-        <li><h4>📍 Live in Tehran</h4></li>
+        <li><h4>👨🏻‍💻 I'm Hamed</h4></li>
+        <li><h4>📍 Live in Ardabil</h4></li>
         <li><h4>🐍 Python back-end developer</h4></li>
         <li><h4>😂 Fun fact: Microsoft loves Linux</h4></li>
     </ul>    
