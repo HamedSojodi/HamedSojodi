@@ -17,7 +17,7 @@
 <hr>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamedSojodi&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamedSojodi&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
