@@ -13,11 +13,11 @@
     </ul>    
 </p>
 
-![](https://komarev.com/ghpvc/?username=rezacho)
+![](https://komarev.com/ghpvc/?username=HamedSojodi)
 <hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezacho&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezacho&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamedSojodi&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamedSojodi&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -52,7 +52,9 @@
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img
         src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"
         alt="sqlite" width="40" height="40" /> </a>
-   
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
+        src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
+        alt="linux" width="40" height="40" /> </a>
     <a href="https://www.redhat.com/" target="_blank" rel="noreferrer"> <img
         src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg"
         alt="redhat" width="40" height="40" /> </a>
@@ -62,7 +64,9 @@
     <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img
         src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"
         alt="pycharm" width="40" height="40" /> </a>
-    
+    <a href="https://www.wordpress.org/" target="_blank" rel="noreferrer"> <img
+        src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"
+        alt="wordpress" width="40" height="40" /> </a>
     </p>
 <hr>
 
